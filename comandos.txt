@@ -1,0 +1,20 @@
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI (feature)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI (main)
+$ mv main.js resumenHardware.txt
+
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI (main)
+$ mv index.html resumenSoftware.txt
+
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI (main)
+$
+
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI
+$ git init
+Initialized empty Git repository in C:/Users/bpich/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI/.git/
+
+bpich@BERNARDO MINGW64 ~/Documents/UNIVERSIDAD PROGRAMACIÓN/INTRODUCCIÓN A LA INFORMATICA/EXAMENI (main)
+$ $ git commit -m "01 de bernardoPichardo"
